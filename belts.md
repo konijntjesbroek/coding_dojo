@@ -4,35 +4,27 @@ The goal of the Belt Color System is not to turn  members into full-fledged comp
 
 ## White Belt
 You are at the beginning of your journey. “White” symbolizes purity, you have not experienced the horrors and joys of programming. In other words, you have never touched a programming language. 
-
 ### Requirements for elevation:
-
 - Familiarize with the “Coding Dojo” server and its channels.
 - What areas of programming are you most interested in? Think about what you want to achieve...
 - Choose a programming language that fits your goals C C++ Python Java C# JavaScript, Or another popular language.   
-###### Note: You don't have to "stick" to one language.  
-###### Note: If you're already familiar with one programming language, let us know so you get promoted.
+*Note: You don't have to "stick" to one language.*    
+*Note: If you're already familiar with one programming language, let us know so you get promoted.*
 
 Once you feel ready, mention the @Staff role and request an elevation to the Yellow belt.
-[
-2:18 AM
-]
-Billy-Bertrand
-:
-@Yellow Belt : You know what programming is and chose a programming language. This color symbolizes sunlight. Here, you will learn basic programming concepts that will serve as a foundation of your entire journey to Mastery.
 
-Requirements for elevation: Understand and know how to use ->
-
-1 - Variables
-2 - Conditional statements
-3 - Loops
-4 - Functions
-5 - (Extra) pointers
-6 - Work on programming challenges in#🧠-challenge-proposals  and submit your solutions in the #📥-challenge-submissions channel.
-7 - Submit a project (in the #📥-project-submission  channel) that showcases the required skills.
-8 - Submit at least three(3) new challenges for future Yellow Belt
-
-Note: Remember to use the “HELP” space in case you need help with one of the requirements. Do not hesitate.
+## Yellow Belt
+You know what programming is and chose a programming language. This color symbolizes sunlight. Here, you will learn basic programming concepts that will serve as a foundation of your entire journey to Mastery.
+### Requirements for elevation: Understand and know how to use ->
+- Variables
+- Conditional statements
+- Loops
+- Functions
+- (Extra) pointers
+- Work on programming challenges in#🧠-challenge-proposals  and submit your solutions in the #📥-challenge-submissions channel.
+- Submit a project (in the #📥-project-submission  channel) that showcases the required skills.
+- Submit at least three(3) new challenges for future Yellow Belt
+*ote: Remember to use the “HELP” space in case you need help with one of the requirements. Do not hesitate.*  
 [
 2:28 AM
 ]
