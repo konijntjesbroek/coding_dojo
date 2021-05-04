@@ -10,8 +10,8 @@ You are at the beginning of your journey. “White” symbolizes purity, you hav
 - Familiarize with the “Coding Dojo” server and its channels.
 - What areas of programming are you most interested in? Think about what you want to achieve...
 - Choose a programming language that fits your goals C C++ Python Java C# JavaScript, Or another popular language.   
-##### Note: You don't have to "stick" to one language.  
-##### Note: If you're already familiar with one programming language, let us know so you get promoted.
+###### Note: You don't have to "stick" to one language.  
+###### Note: If you're already familiar with one programming language, let us know so you get promoted.
 
 Once you feel ready, mention the @Staff role and request an elevation to the Yellow belt.
 [
