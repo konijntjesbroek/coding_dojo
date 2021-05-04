@@ -2,17 +2,16 @@
 
 The goal of the Belt Color System is not to turn  members into full-fledged computer scientists, rather give us strong foundations to build upon.  It is therefore not “perfect,” and will get better as we iterate on its content. If you feel like something is missing, or can be done in a better way, please suggest your improvements in the server-suggestions  channel.
 
-# White Belt
+## White Belt
 You are at the beginning of your journey. “White” symbolizes purity, you have not experienced the horrors and joys of programming. In other words, you have never touched a programming language. 
 
 ### Requirements for elevation:
 
 - Familiarize with the “Coding Dojo” server and its channels.
--
 - What areas of programming are you most interested in? Think about what you want to achieve...
 - Choose a programming language that fits your goals C C++ Python Java C# JavaScript, Or another popular language. 
-Note: You don't have to "stick" to one language.
-Note: If you're already familiar with one programming language, let us know so you get promoted.
+*Note: You don't have to "stick" to one language.
+*Note: If you're already familiar with one programming language, let us know so you get promoted.
 
 Once you feel ready, mention the @Staff role and request an elevation to the Yellow belt.
 [
