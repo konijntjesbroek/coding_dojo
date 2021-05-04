@@ -90,9 +90,9 @@ if you have ideas, post your suggestion in the #📝server-suggestions channel.
 ( Still In development). 
 if you have ideas, post your suggestion in the #📝server-suggestions channel.
 
-## @Brown Belt
+## Brown Belt
 ( Still In development). 
 if you have ideas, post your suggestion in the #📝server-suggestions channel.
 
-## @Black Belt
+## Black Belt
 The highest level of recognition. You must be invited into this belt. Bearers of the black belt become mentors for lower ranks and must participate in their “growth” as programmers.
