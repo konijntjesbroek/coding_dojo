@@ -15,16 +15,17 @@ Once you feel ready, mention the @Staff role and request an elevation to the Yel
 
 ## Yellow Belt
 You know what programming is and chose a programming language. This color symbolizes sunlight. Here, you will learn basic programming concepts that will serve as a foundation of your entire journey to Mastery.
-### Requirements for elevation: Understand and know how to use ->
-- Variables
-- Conditional statements
-- Loops
-- Functions
-- (Extra) pointers
+### Requirements for elevation: 
+-Understand and know how to use ->
+ - Variables
+ - Conditional statements
+ - Loops
+ - Functions
+ - (Extra) pointers
 - Work on programming challenges in#🧠-challenge-proposals  and submit your solutions in the #📥-challenge-submissions channel.
 - Submit a project (in the #📥-project-submission  channel) that showcases the required skills.
 - Submit at least three(3) new challenges for future Yellow Belt
-*ote: Remember to use the “HELP” space in case you need help with one of the requirements. Do not hesitate.*  
+*Note: Remember to use the “HELP” space in case you need help with one of the requirements. Do not hesitate.*  
 [
 2:28 AM
 ]
