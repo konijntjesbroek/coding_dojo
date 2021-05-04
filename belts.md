@@ -1,5 +1,6 @@
-# GOAL
+# The Coding Dogo Belt Promotional Systm
 
+## GOAL
 The goal of the Belt Color System is not to turn  members into full-fledged computer scientists, rather give us strong foundations to build upon.  It is therefore not “perfect,” and will get better as we iterate on its content. If you feel like something is missing, or can be done in a better way, please suggest your improvements in the server-suggestions  channel.
 
 ## White Belt
