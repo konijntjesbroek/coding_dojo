@@ -17,7 +17,7 @@ Once you feel ready, mention the @Staff role and request an elevation to the Yel
 You know what programming is and chose a programming language. This color symbolizes sunlight. Here, you will learn basic programming concepts that will serve as a foundation of your entire journey to Mastery.
 ### Requirements for elevation: 
 - Understand and know how to use ->
- - Variables
+- - Variables
  - Conditional statements
  - Loops
  - Functions
