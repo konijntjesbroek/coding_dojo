@@ -18,94 +18,80 @@ You know what programming is and chose a programming language. This color symbol
 ### Requirements for elevation: 
 - Understand and know how to use:
     - Variables
- - Conditional statements
- - Loops
- - Functions
- - (Extra) pointers
+    - Conditional statements
+    - Loops
+    - Functions
+    - (Extra) pointers
 - Work on programming challenges in#🧠-challenge-proposals  and submit your solutions in the #📥-challenge-submissions channel.
 - Submit a project (in the #📥-project-submission  channel) that showcases the required skills.
 - Submit at least three(3) new challenges for future Yellow Belt
 *Note: Remember to use the “HELP” space in case you need help with one of the requirements. Do not hesitate.*  
-[
-2:28 AM
-]
-Billy-Bertrand
-:
-@Orange Belt : The light of the sun expands, and so is your grasp on programming. This belt is an introduction to key Object Oriented Programming (OOP) concepts.
 
-Requirements for elevation: Understand and know how to use ->
+## Orange Belt
+The light of the sun expands, and so is your grasp on programming. This belt is an introduction to key Object Oriented Programming (OOP) concepts.
 
-1 - Classes
-2 - Methods
-3 - Attributes (AKA Fields)
-4 - Constructors. Its job? How do they differ from "Methods"?
-5 - Class instantiation.
-6 - Work on programming challenges in#🧠-challenge-proposals  and submit your solutions in the #📥-challenge-submissions channel.
-7 - Submit a project (in the #📥-project-submission  channel) that showcases the required skills.
-8 - Submit at least seven(7) new challenges for future Orange Belt
+### Requirements for elevation: 
 
-Note: Remember to use the “HELP” space in case you need help with one of the requirements. Do not hesitate.
-[
-2:38 AM
-]
-Billy-Bertrand
-:
-@Green Belt : Your roots are slowly penetrating the ground to get even more sunlight. This color is an introduction to a) Algorithms & Data Structures and b) advanced OOP concepts.
+- Understand and know how to use
+    - Classes
+    - Methods
+    - Attributes (AKA Fields)
+    - Constructors. Its job? How do they differ from "Methods"?
+    - Class instantiation.
+- Work on programming challenges in#🧠-challenge-proposals  and submit your solutions in the #📥-challenge-submissions channel.
+- Submit a project (in the #📥-project-submission  channel) that showcases the required skills.
+- Submit at least seven(7) new challenges for future Orange Belt
+*Note: Remember to use the “HELP” space in case you need help with one of the requirements. Do not hesitate.*
 
-Requirements for elevation: Understand and know how to use ->
+## Green Belt 
+Your roots are slowly penetrating the ground to get even more sunlight. This color is an introduction to:
+- Algorithms
+- Data Structures 
+- Advanced OOP concepts.
 
-a) Algorithms & Data Structures
- - Arrays
- - Linked Lists
- - Queues
- - Stacks
- - Graphs
- - Sort Algorithms
- - Search Algorithms
+### Requirements for elevation: 
 
-b) Advanced OOP concepts
- - Abstraction. Be able to explain it
- - Inheritance
- - Encapsulation. Be able to explain it
- - Polymorphism
- - Method Overloading/Overriding.
+- Understand and know how to use
+  - Data Structures
+    - Arrays
+    - Linked Lists
+    - Queues
+    - Stacks
+    - Graphs
+  - Algorithms
+    - Sort
+      - Bubble
+      - Merge
+      - Selection 
+    - Search
+      - Breadth First 
+      - Depth First
+  - Advanced OOP concepts
+    - Abstraction. Be able to explain it
+    - Inheritance
+    - Encapsulation. Be able to explain it
+    - Polymorphism
+    - Method Overloading/Overriding.
+- Work on programming challenges in#🧠-challenge-proposals  and submit your solutions in the #📥-challenge-submissions channel.
+- Submit a project (in the #📥-project-submission  channel) that showcases the required skills.
+- Submit at least ten (10) new challenges for future Green Belt
+*Note: Remember to use the “HELP” space in case you need help with one of the requirements. Do not hesitate*
 
- - Work on programming challenges in#🧠-challenge-proposals  and submit your solutions in the #📥-challenge-submissions channel.
- - Submit a project (in the #📥-project-submission  channel) that showcases the required skills.
- - Submit at least ten (10) new challenges for future Green Belt
-
-Note: Remember to use the “HELP” space in case you need help with one of the requirements. Do not hesitate
-[
-2:45 AM
-]
-Billy-Bertrand
-:
-@Blue Belt : ( Still In development). 
+## Blue Belt 
+( Still In development). 
 if you have ideas, post your suggestion in the #📝server-suggestions channel.
-[
-2:54 AM
-]
-Billy-Bertrand
-:
-@Purple Belt  : ( Still In development). 
+
+## Purple Belt
+( Still In development). 
 if you have ideas, post your suggestion in the #📝server-suggestions channel.
-[
-3:04 AM
-]
-Billy-Bertrand
-:
-@Red Belt   : ( Still In development). 
+
+## Red Belt
+( Still In development). 
 if you have ideas, post your suggestion in the #📝server-suggestions channel.
-[
-3:13 AM
-]
-Billy-Bertrand
-:
-@Brown Belt : ( Still In development). 
+
+## @Brown Belt
+( Still In development). 
 if you have ideas, post your suggestion in the #📝server-suggestions channel.
-[
-3:22 AM
-]
-Billy-Bertrand
-:
-@Black Belt : The highest level of recognition. You must be invited into this belt. Bearers of the black belt become mentors for lower ranks and must participate in their “growth” as programmers.
+
+## @Black Belt
+The highest level of recognition. You must be invited into this belt. Bearers of the black belt become mentors for lower ranks and must participate in their “growth” as programmers.
