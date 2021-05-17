@@ -14,7 +14,7 @@ marks is ignored by the interpreter but can be used to dynaically create
 documentation for your program by development tools.
 
 examples:
-
+```py
 this = 12 # Setting this to 12
 
 '''
@@ -24,3 +24,4 @@ last modified: 2021-05-16
 description:
     add up the squares of a list of numbers
 '''
+```
